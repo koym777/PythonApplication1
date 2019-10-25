@@ -5,6 +5,7 @@ from mpl_toolkits.mplot3d import Axes3D
 
 def plot_3d() :
 
+    #add new comment
     fig = plt.figure()
     ax = Axes3D(fig)
     X = np.arange(-4, 4, 0.25)
