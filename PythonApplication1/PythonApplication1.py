@@ -1,6 +1,7 @@
 # Import pandas package 
 import pandas as pd 
 import plotting_sample01 as ps
+import plotting_3d as p3d
 
 
 # Define a dictionary containing employee data 
@@ -17,7 +18,8 @@ df[['Name', 'Qualification']]
 
 print(df)
 
-ps.plot_sample()
+#ps.plot_sample()
+p3d.plot_3d()
 
 
 # comment
