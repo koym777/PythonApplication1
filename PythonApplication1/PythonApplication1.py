@@ -17,6 +17,7 @@ df[['Name', 'Qualification']]
 print(df)
 
 
+# Plotting code sample
 import numpy as np
 import matplotlib.pyplot as plt
 
